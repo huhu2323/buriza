@@ -1,0 +1,22 @@
+{
+    "name": "haymetg/buriza",
+    "description": "A sampe logic to mimic critical hits",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Masangcay",
+            "email": "james.masangcay@sparkglobaltech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HaymeTG\\Buriza\\": "src/"
+        }
+    },
+    "require-dev": {
+        "league/climate": "dev-master"
+    }
+}
