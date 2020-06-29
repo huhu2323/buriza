@@ -10,13 +10,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "league/climate": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "HaymeTG\\Buriza\\": "src/"
         }
     },
     "require-dev": {
-        "league/climate": "dev-master"
     }
 }
